@@ -1,0 +1,10 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+numpy
+gradio
+onnxruntime
+nncf>=2.8.1
+optimum-intel>=1.15.2
+transformers>=4.37.2
+openvino>=2023.3.0
+onnx>=1.15.0
+huggingface-hub>=0.21.3
